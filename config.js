@@ -38,10 +38,10 @@ module.exports = {
     image_1: readFileSync('./lib/Assets/image_1.jpg'), // primary image
     image_2: readFileSync('./lib/Assets/image_2.jpg'), // secondry image
     imageUrl: "https://i.ibb.co/ZKKSZHT/Picsart-23-06-24-13-36-01-843.jpg", // image url, to replace to your url upload your image to https://imgbb.com
-    imageMentionUrl: "https://i.ibb.co/ZKKSZHT/Picsart-23-06-24-13-36-01-843.jpg", // image for mention reply audio media
+    imageMentionUrl: "https://telegra.ph/file/30ff50a0f38df0e4e3854.jpg", // image for mention reply audio media
     aliveMedia: readFileSync("./lib/Assets/aliveMedia.mp4"),
     menuMedia: readFileSync('./lib/Assets/menuMedia.mp4'),
-    ownerMentionMp3: readFileSync('./lib/Assets/ownerMentionMp3.mp3'),  // audio for mention reply audio media
+    ownerMentionMp3: readFileSync('https://ik.imagekit.io/eypz/1722664374879__MzkStFEo.mp4'),  // audio for mention reply audio media
 
     /**
      * core parameters and values
